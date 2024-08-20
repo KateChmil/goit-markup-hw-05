@@ -673,7 +673,7 @@ align-items: center;
     justify-content: center;
     fill: transparent;
 }
-.box-input:checked .modal-span {
+.box-input:checked + .modal-span {
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
